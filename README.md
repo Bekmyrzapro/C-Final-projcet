@@ -1,19 +1,21 @@
-A Windows Form project for a music player is a graphical user interface (GUI) application developed using the Windows Forms framework in the .NET framework. This type of project is designed to create a user-friendly interface for users to play, manage, and organize their music files. Here's a general description of what a Windows Form music player project might include:
+This project involves the development of a text editor using .NET Windows Forms, a feature of the .NET framework specifically tailored for creating rich client applications for the Windows environment. The text editor, designed to be lightweight and user-friendly, offers basic functionalities akin to traditional text editing software, making it suitable for handling plain text files.
 
-User Interface (UI):
+Key Features:
 
-Main Window: The primary window of the application that houses the music player controls and displays information about the currently playing track.
-Playback Controls: Play, pause, stop, forward, and backward buttons for controlling the playback of music.
-Volume Control: A slider or knob to adjust the volume level.
-Track Information: Display of metadata such as song title, artist, album, and duration.
-Progress Bar: A visual representation of the current playback position within the track.
+Text Manipulation: Enables basic text operations such as input, editing, copying, cutting, pasting, and text selection.
+File Operations: Supports opening, editing, and saving text files. The application will handle common text file formats like .txt.
+Formatting Tools: Though primarily focused on plain text, basic formatting options such as font type, size, and color adjustments are included.
+User Interface: A straightforward and intuitive interface, leveraging the capabilities of Windows Forms to provide a responsive and accessible user experience.
+Undo/Redo Functionality: Basic undo and redo capabilities for text editing.
+Search Functionality: Incorporates a simple search feature to find and highlight text within the document.
+The project is structured to demonstrate the use of .NET Windows Forms for creating desktop applications. It serves as an excellent starting point for those looking to understand the fundamentals of desktop application development in the .NET ecosystem. The text editor, while basic, is scalable and can be expanded with additional features such as syntax highlighting, rich text formatting, and more advanced file operations.
 
 ## Docs
 [Link](https://docs.google.com/document/d/1iHFTC5MndUDIHs8rEHj1emKwQqT-jq3FS6OjMYx3q0c/edit?usp=sharing)
 
 ## Screenshots
 
-![Screenshot 1](https://res.cloudinary.com/benomad/image/upload/v1702961318/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-12-19_104243_ezf58m.png)
+![Screenshot 1](https://res.cloudinary.com/benomad/image/upload/v1702965050/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-12-19_114906_fcin30.png)
 
 
 ## Requirements
