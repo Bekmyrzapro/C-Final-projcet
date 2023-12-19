@@ -1,3 +1,0 @@
----
-Title: Commercial Plotting Libraries
----

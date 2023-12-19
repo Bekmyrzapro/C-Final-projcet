@@ -1,3 +1,0 @@
----
-Title: Free Plotting Libraries
----

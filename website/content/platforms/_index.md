@@ -1,3 +1,0 @@
----
-Title: Additional Graphics Platforms
----
